@@ -16,7 +16,6 @@
 - more colors added in bootstrap 5
 - support IE 10 and 11 which bootstrap 4 didnt.
 - form elements such as buttons, checkboxes used to look different based on OS and browser now it remanins same
-- we can modify utility
 - bootsrap 5 has own SVG icons (4 didnt have)
 - jumbotron not supported in bs5
 - card-deck class is not supported anymore
@@ -452,6 +451,7 @@
 
 ### [23. float and svg icons]()
 
+- bootstrap svg icons - https://icons.getbootstrap.com/
 - example
 
   ```html
@@ -494,3 +494,5 @@
   ```
 
 ### [24. Modal]()
+
+### [25. Projects]()
