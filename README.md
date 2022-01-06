@@ -10,7 +10,7 @@
 - make table videos
 - make form videos
 - make form validation videos
-- button block issue fix: <div class="d-grid gap-2 col-6 mx-auto"> <button> btn1 </button> </div>
+- button block issue fix: `<div class="d-grid gap-2 col-6 mx-auto"> <button> btn1 </button> </div>`
 
 - breakpoints: now 6 break-points xs, sm, md, lg, xl, xxl
 - more colors added in bootstrap 5
