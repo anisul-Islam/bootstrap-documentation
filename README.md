@@ -5,11 +5,7 @@
 ### New things
 
 - fix bootstrap series thumbnail, description and others
-- make a bs4 and bs5 differences videos
-- make alert videos
-- make table videos
-- make form videos
-- make form validation videos
+- make a bs4 vs bs5 video, alert, table , form videos, form validation videos
 - button block issue fix: `<div class="d-grid gap-2 col-6 mx-auto"> <button> btn1 </button> </div>`
 
 - breakpoints: now 6 break-points xs, sm, md, lg, xl, xxl
