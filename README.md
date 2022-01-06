@@ -20,13 +20,17 @@
 
 - <div class="row bg-primary gx-3 gy-4 g-4"> </div>
 
-### [1. Introduction to Bootstrap](https://youtu.be/SzaWRb-Mm_M)
+### [0. welcome to Bootstrap4 and 5](https://youtu.be/Wl6Q472fNCc)
 
-#### 1.1 What is Bootstrap?
+### [1. bootstrap 4 vs bootstrap5]()
+
+### [2. Introduction to Bootstrap](https://youtu.be/SzaWRb-Mm_M)
+
+#### 2.1 What is Bootstrap?
 
 - Most powerful and popular Front end framework.
 
-#### 1.2 Why Bootstrap?
+#### 2.2 Why Bootstrap?
 
 - It includes HTML, CSS based design for buttons, navigation etc.
 - Easier web development
@@ -35,14 +39,14 @@
 - save time
 - open source
 
-### [2. Create a bootstrap webpage](https://youtu.be/B7z7_LOCvrs)
+### [3. Create a bootstrap webpage](https://youtu.be/B7z7_LOCvrs)
 
 - create a basic html file with 6 heading tags
 - How to add bootstrap to your project?
   - add css cdn to the head of html file : `<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"> `
   - add js cdn inside the body: ` <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>`
 
-### [3. Containers and grid](https://youtu.be/JVGWXp5uw7o)
+### [4. Containers and grid](https://youtu.be/JVGWXp5uw7o)
 
 - breakpoints: xs < 576px | sm >=576px | md >=768px | lg >=992 | xl >=1200px | xxl >=1400px
 - .container: for x-small it will take 100%; but for other breakpoints it will take maximum not full width of viewport
@@ -88,7 +92,7 @@
   ```html
   ````
 
-### [4. colors and spacing - Margin, padding](https://youtu.be/OpxU0T_Pa4w)
+### [5. colors and spacing - Margin, padding](https://youtu.be/OpxU0T_Pa4w)
 
 - colors: primary(blue), success(green), info(light blue), warning(orange), danger(red), secondary(grey), white, dark, light
 - bg-colorName
@@ -98,7 +102,7 @@
 - responsive padding: p-3, p-lg-5
 - use m for margin
 
-### [5. border and image](https://youtu.be/oPlPz2gf5OY)
+### [6. border and image](https://youtu.be/oPlPz2gf5OY)
 
 - border, border-colorName, rounded-left, rounded-circle
 - responsive image: img-fluid
@@ -106,14 +110,14 @@
 - aligning-image: float start, float-end
 - centering image: mx-auto d-block or make the parent div text-center
 
-### [6. Text and font](https://youtu.be/AbhMm6TYNKg)
+### [7. Text and font](https://youtu.be/AbhMm6TYNKg)
 
 - text-left, text-right, text-center, text-justify
 - responsive text-alignment: text-sm-left text-md-center
 - text-lowercase, text-uppercase, text-capitalize
 - text-decoration-none
 
-### [7. alert]()
+### [8. alert]()
 
 - example
   ```html
@@ -127,7 +131,7 @@
   </div>
   ```
 
-### [8. blockquote and abbreviations](https://youtu.be/GggXq0Dh-Jc)
+### [9. blockquote and abbreviations](https://youtu.be/GggXq0Dh-Jc)
 
 - example
 
@@ -135,7 +139,7 @@
 
   ```
 
-### [9. button, button group, list group](https://youtu.be/rU9glyS3J6o)
+### [10. button, button group, list group](https://youtu.be/rU9glyS3J6o)
 
 - btn, btn-link, btn-group
 - btn-colorName; example: btn-primary, btn-light
@@ -147,7 +151,7 @@
 
   ```
 
-### [10. collapse and pagination](https://youtu.be/pKrfwnZ2Rxk)
+### [11. collapse and pagination](https://youtu.be/pKrfwnZ2Rxk)
 
 - example
 
@@ -183,7 +187,7 @@
   </footer>
   ```
 
-### [11. Navigation menu](https://youtu.be/ZbAvtMpEzcA)
+### [12. Navigation menu](https://youtu.be/ZbAvtMpEzcA)
 
 - example
 
@@ -205,11 +209,11 @@
   </ul>
   ```
 
-### [12. Toggleable dynamic tab and pill](https://youtu.be/VWxSH4zjF8c)
+### [13. Toggleable dynamic tab and pill](https://youtu.be/VWxSH4zjF8c)
 
-### [13. Navbar](https://youtu.be/Exq0vXXe3DM)
+### [14. Navbar](https://youtu.be/Exq0vXXe3DM)
 
-### [14. Card](https://youtu.be/hXNglSpEv5Q)
+### [15. Card](https://youtu.be/hXNglSpEv5Q)
 
 - example
 
@@ -233,9 +237,9 @@
 </div>
 ```
 
-### [15. Media objects](https://youtu.be/cqEvL_kIbTE)
+### [16. Media objects](https://youtu.be/cqEvL_kIbTE)
 
-### [16. Table](https://youtu.be/p6eIv_UL3g0)
+### [17. Table](https://youtu.be/p6eIv_UL3g0)
 
 - we can use table-colorName on table, tr, td
 - Use .table-striped to add zebra-striping to any table row within the <tbody>.
@@ -276,11 +280,11 @@
       </table>
 ```
 
-### [17. Form part-1]()
+### [18. Form part-1]()
 
-### [18. Form part-2]()
+### [19. Form part-2]()
 
-### [19. Form part-3: form validation]()
+### [20. Form part-3: form validation]()
 
 - form controls create block level and allows us to style input and textarea with custom sizing, designing and more.
 - sizing: form-control, form-control-lg, form-control-sm
@@ -384,9 +388,9 @@
       </form>
 ```
 
-### [20. Carousel](https://youtu.be/f6nCsa6Zbjg)
+### [21. Carousel](https://youtu.be/f6nCsa6Zbjg)
 
-### [21. Badge and tooltip]()
+### [22. Badge and tooltip]()
 
 - example
 
@@ -410,7 +414,7 @@
   </button>
   ```
 
-### [22. List group]()
+### [23. List group]()
 
 - example
 
@@ -445,7 +449,7 @@
   </ul>
   ```
 
-### [23. float and svg icons]()
+### [24. float and svg icons]()
 
 - bootstrap svg icons - https://icons.getbootstrap.com/
 - example
@@ -489,6 +493,6 @@
   </button>
   ```
 
-### [24. Modal]()
+### [25. Modal]()
 
-### [25. Projects]()
+### [26. Projects]()
