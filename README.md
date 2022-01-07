@@ -2,9 +2,8 @@
 
 - prerequisities: HTML, CSS
 
-### New things
+### BS4 vs BS5
 
-- BS4 vs BS5
 - support IE 10 and 11
 - more colors added in bootstrap 5
 - card-deck class is not supported anymore
