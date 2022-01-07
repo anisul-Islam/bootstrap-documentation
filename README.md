@@ -385,7 +385,7 @@
 
 ### [21. Carousel](https://youtu.be/f6nCsa6Zbjg)
 
-### [22. Badge and tooltip]()
+### [22. Badge, tooltip and progress]()
 
 - example
 
@@ -407,6 +407,19 @@
   >
     sign up
   </button>
+  
+  <div class="progress mt-3">
+      <div
+        class="progress-bar bg-success w-75"
+        role="progressbar"
+        aria-valuenow="75"
+        aria-valuemin="0"
+        aria-valuemax="100"
+      >
+        75%
+      </div>
+    </div>
+
   ```
 
 ### [23. List group]()
