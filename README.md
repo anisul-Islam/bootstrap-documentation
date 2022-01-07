@@ -4,19 +4,15 @@
 
 ### New things
 
-- fix bootstrap series thumbnail, description and others
-- make a bs4 vs bs5 video, alert, table , form videos, form validation videos
-- button block issue fix: `<div class="d-grid gap-2 col-6 mx-auto"> <button> btn1 </button> </div>`
-
-- breakpoints: now 6 break-points xs, sm, md, lg, xl, xxl
+- BS4 vs BS5
+- support IE 10 and 11
 - more colors added in bootstrap 5
-- support IE 10 and 11 which bootstrap 4 didnt.
-- form elements such as buttons, checkboxes used to look different based on OS and browser now it remanins same
-- bootsrap 5 has own SVG icons (4 didnt have)
-- jumbotron not supported in bs5
 - card-deck class is not supported anymore
-- jquery is removed and vanila js has taken place in bs5
-- button block: <div class="d-grid gap-2 col-6 mx-auto"> <button> btn1 </button> </div>
+- jumbotron not supported in bs5
+- jQuery is removed and vanila js has taken place in bs5
+- bootstrap 5 has own SVG icons
+- form elements such as buttons, checkboxes used to look - different based on OS and browser now it remains same
+- breakpoints: now 6 break-points xs, sm, md, lg, xl, xxl
 
 - <div class="row bg-primary gx-3 gy-4 g-4"> </div>
 
