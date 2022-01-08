@@ -275,11 +275,7 @@
       </table>
 ```
 
-### [18. Form part-1]()
-
-### [19. Form part-2]()
-
-### [20. Form part-3: form validation]()
+### [18. Form ]()
 
 - form controls create block level and allows us to style input and textarea with custom sizing, designing and more.
 - sizing: form-control, form-control-lg, form-control-sm
@@ -383,9 +379,9 @@
       </form>
 ```
 
-### [21. Carousel](https://youtu.be/f6nCsa6Zbjg)
+### [19. Carousel](https://youtu.be/f6nCsa6Zbjg)
 
-### [22. Badge and tooltip]()
+### [20. Badge, progress and tooltip]()
 
 - example
 
@@ -409,7 +405,7 @@
   </button>
   ```
 
-### [23. List group]()
+### [21. List group]()
 
 - example
 
@@ -444,7 +440,7 @@
   </ul>
   ```
 
-### [24. float and svg icons]()
+### [22. float and svg icons]()
 
 - bootstrap svg icons - https://icons.getbootstrap.com/
 - example
@@ -486,6 +482,35 @@
     </svg>
     Alarm
   </button>
+  ```
+
+### [23. position and display]()
+
+- example
+
+  ```html
+  <!-- // display: none, block, inline, inline-block, flex, grid, table -->
+
+  <!-- <button class="d-none">click me 1</button>
+    <button class="d-block">click me 2</button>
+  
+    <div class="bg-success d-inline-block">
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A culpa</p>
+    </div>
+    <div class="bg-primary d-inline-block">
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
+        tempore in qui. Quasi, quas non?
+      </p>
+    </div> -->
+
+  <!-- positioning: static, fixed, sticky, absolute, relative -->
+
+  <div class="bg-success position-relative" style="height: 200px">
+    <button class="position-absolute start-50 top-50 translate-middle">
+      click me
+    </button>
+  </div>
   ```
 
 ### [25. Modal]()
