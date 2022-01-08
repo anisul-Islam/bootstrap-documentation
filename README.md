@@ -17,15 +17,13 @@
 
 ### [0. welcome to Bootstrap4 and 5](https://youtu.be/Wl6Q472fNCc)
 
-### [1. bootstrap 4 vs bootstrap5]()
+### [1. Introduction to Bootstrap](https://youtu.be/SzaWRb-Mm_M)
 
-### [2. Introduction to Bootstrap](https://youtu.be/SzaWRb-Mm_M)
-
-#### 2.1 What is Bootstrap?
+#### 1.1 What is Bootstrap?
 
 - Most powerful and popular Front end framework.
 
-#### 2.2 Why Bootstrap?
+#### 1.2 Why Bootstrap?
 
 - It includes HTML, CSS based design for buttons, navigation etc.
 - Easier web development
@@ -34,14 +32,14 @@
 - save time
 - open source
 
-### [3. Create a bootstrap webpage](https://youtu.be/B7z7_LOCvrs)
+### [2. Create a bootstrap webpage](https://youtu.be/B7z7_LOCvrs)
 
 - create a basic html file with 6 heading tags
 - How to add bootstrap to your project?
   - add css cdn to the head of html file : `<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"> `
   - add js cdn inside the body: ` <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>`
 
-### [4. Containers and grid](https://youtu.be/JVGWXp5uw7o)
+### [3. Containers and grid](https://youtu.be/JVGWXp5uw7o)
 
 - breakpoints: xs < 576px | sm >=576px | md >=768px | lg >=992 | xl >=1200px | xxl >=1400px
 - .container: for x-small it will take 100%; but for other breakpoints it will take maximum not full width of viewport
@@ -87,6 +85,8 @@
   ```html
   ````
 
+### [4. bootstrap 4 vs bootstrap5](https://youtu.be/dMU3R1dWqo4)
+
 ### [5. colors and spacing - Margin, padding](https://youtu.be/OpxU0T_Pa4w)
 
 - colors: primary(blue), success(green), info(light blue), warning(orange), danger(red), secondary(grey), white, dark, light
@@ -112,7 +112,7 @@
 - text-lowercase, text-uppercase, text-capitalize
 - text-decoration-none
 
-### [8. alert]()
+### [8. dismissible alert](https://youtu.be/jJnr3kvxmgU)
 
 - example
   ```html
@@ -234,7 +234,7 @@
 
 ### [16. Media objects](https://youtu.be/cqEvL_kIbTE)
 
-### [17. Table](https://youtu.be/p6eIv_UL3g0)
+### [17. Table](https://youtu.be/74Ge1I0FzBk)
 
 - we can use table-colorName on table, tr, td
 - Use .table-striped to add zebra-striping to any table row within the <tbody>.
@@ -275,7 +275,7 @@
       </table>
 ```
 
-### [18. Form ]()
+### [18. Form ](https://youtu.be/eDE7TndaKeM)
 
 - form controls create block level and allows us to style input and textarea with custom sizing, designing and more.
 - sizing: form-control, form-control-lg, form-control-sm
@@ -381,7 +381,7 @@
 
 ### [19. Carousel](https://youtu.be/f6nCsa6Zbjg)
 
-### [20. Badge, progress and tooltip]()
+### [20. Badge, progress and tooltip](https://youtu.be/D-rPnaM0agw)
 
 - example
 
@@ -452,7 +452,7 @@
   </ul>
   ```
 
-### [22. float and svg icons]()
+### [22. float and svg icons](https://youtu.be/-BP8r0vMOXU)
 
 - bootstrap svg icons - https://icons.getbootstrap.com/
 - example
@@ -496,7 +496,7 @@
   </button>
   ```
 
-### [23. position and display]()
+### [23. position and display](https://youtu.be/qknEBRJBAM0)
 
 - example
 
